@@ -1,0 +1,11 @@
+{
+  "name": "ZEAPAD BY POSITRON",
+  "vendorId": "0x414D",
+  "productId": "0x0004",
+  "matrix": {"rows": 1, "cols": 5},
+  "layouts": {
+    "keymap": [
+      ["0,3", "0,1", "0,2", "0,0","0,4\n\n\n\n\n\n\n\n\ne0"]
+    ]
+  }
+}
