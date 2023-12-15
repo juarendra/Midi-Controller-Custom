@@ -1,4 +1,7 @@
 # MIDI CONTROLLER CUSTOM
+## DOWNLOAD VIA
+- Link Download VIA(Pilih sesuai OS) : https://github.com/the-via/releases/releases
+- VIA WEB VERSION : https://usevia.app/
 
 ## LOAD JSON FILE TO VIA FOR SETTING
 - Colok dahulu Macropad pada PC
