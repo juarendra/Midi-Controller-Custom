@@ -17,6 +17,7 @@
   <img width="50%" height="50%">
   
 https://github.com/juarendra/ZEOPAD-QMK-VIA/assets/43043633/6efb1be4-a013-4cfd-a778-e159bf880cd9
+https://github.com/juarendra/Midi-Controller-Custom/blob/main/DOC/20231215084059.mp4
 
 
 
