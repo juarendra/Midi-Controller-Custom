@@ -42,7 +42,7 @@ for Connection from Pro Micro to all Button and RGB you can use Connector and sk
 
 ## FLASH FIRMWARE
 - Flash QMK with QMK tollbox, the file you can find in [this link](https://github.com/juarendra/Midi-Controller-Custom/blob/main/Firmware/Macropad/25keys_cassette42_default.hex)
-- Flash Midi Conteoller with arduino(you need to install all )
+- Flash Midi Controller with arduino ,you need to install all library arduino, the file you can find in [this link](https://github.com/juarendra/Midi-Controller-Custom/blob/main/Firmware/MidiController/MidiController.ino)
 
 
 
