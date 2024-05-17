@@ -22,3 +22,29 @@ for Connection from Pro Micro to all Button and RGB you can use Connector and sk
   <img src="DOC/MidiController_5.png" width="50%" height="50%">
 </p>
 
+## Documentation Sensor V4
+- [Dimension Sensor V4](https://github.com/juarendra/Midi-Controller-Custom/blob/main/HARDWARE/Dimension_MidiController.pdf)
+- [JSON File For VIA](https://github.com/juarendra/Midi-Controller-Custom/blob/main/MidiController.json)
+
+## BOM
+| Item  | QTY |
+| ------------- | ------------- |
+| Arduino Pro Micor  | 2  |
+| Arcade Button with transparant Frame 30mm | 16  |
+| Switch Mechanical MX  | 5  |
+| Keycaps Mechanical MX  | 5  |
+| EC11 Rotary Encoder + Knob| 1  |
+| Hotswap PCB Mechanical MX with LED RGB | 5  |
+| RGB LED for Arcade Button | 32  |
+| USB HUB minimal 2 Port | 1  |
+| USB FEMALE type B | 1  |
+| Wire and Skun | some  |
+
+
+
+
+
+
+
+
+
