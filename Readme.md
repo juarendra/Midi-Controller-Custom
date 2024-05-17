@@ -1,24 +1,9 @@
 # MIDI CONTROLLER CUSTOM
-## DOWNLOAD VIA
-- Link Download VIA(Pilih sesuai OS) : https://github.com/the-via/releases/releases
-- VIA WEB VERSION : https://usevia.app/
+This is MIDI CONTROLLER Combine with Macropad. Midi controller is for sending midi key to computer, ussually usage for remix musi on DAW Software. Macropad usage to sending macro key that register on QMK/VIA Firmware. there are 2 Microcontroller on this Project, All Microcontroller using Pro Micro and Connected with USB HUB inside Case. Macropad is installed QMK/VIA Firmware and Midi Controller is installed using Arduino Framework. For Button Midi Controller we use Arcade Button and there are 2 RGB LED on each Arcade Button and For Macropad we use MX Mechanical Switch with RGB on South Face.
 
-## LOAD JSON FILE TO VIA FOR SETTING
-- Colok dahulu Macropad pada PC
-- Buka Aplikasi VIA
-- Pada Tab Setting , aktifkan “Show Design Tab”
-- Buka Tan Design
-- Load file  “MidiController.json” di google drive yang di berikan
-- Buka tab Configure untuk melakukan setting
-- Jika masih muncul gambar searching, maka ulangi lagi load json file
+For Case, we use 3D print that you can download on [this folder]("")
 
-## Preview VIA
+## Preview Hardware
 <p align="center">
-  <img width="50%" height="50%">
-  
-https://github.com/juarendra/ZEOPAD-QMK-VIA/assets/43043633/6efb1be4-a013-4cfd-a778-e159bf880cd9
-
-
-
- 
+  <img src="DOC/MidiController_1.png" width="50%" height="50%">
 </p>
