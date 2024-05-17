@@ -3,6 +3,18 @@ This is MIDI CONTROLLER Combine with Macropad. Midi controller is for sending mi
 
 For Case, we use 3D print that you can download on [this folder](https://github.com/juarendra/Midi-Controller-Custom/tree/main/HARDWARE/3DCASE). You can print this if you want to build this Project. For Firmware you can find in [this folder](https://github.com/juarendra/Midi-Controller-Custom/tree/main/Firmware).
 
+## Spesification
+- 2 x Atmega32u4 Pro Micro
+- 1 x USB HUB minimal 2 Port
+- 16 x Button Arcade with Transparant Frame + 2 RGB each Button
+- 5 x Mechanical MX Switch and Keycaps + 1 RGB per key
+- 5 x Hotswap Switch
+- 1 x Encoder 
+- 1 x USB Type B Female
+- Macropad Compatible With VIA
+
+for Connection from Pro Micro to all Button and RGB you can use Connector and skun, 
+
 ## Preview Hardware
 <p align="center">
   <img src="DOC/MidiController_1.png" width="50%" height="50%">
